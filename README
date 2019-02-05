@@ -1,5 +1,1 @@
-[cicd-buzz] $ git init
-[cicd-buzz] $ git add *
-[cicd-buzz] $ git commit -m "Initial commit"
-[cicd-buzz] $ git remote add origin git@github.com:<YOUR_GITHUB_USERNAME>/cicd-buzz.git
-[cicd-buzz] $ git push -u origin master
+https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b
